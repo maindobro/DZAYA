@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/tpabahatp/matrix.svg?branch=master)](https://travis-ci.org/tpabahatp/matrix)
+[![Build Status](https://travis-ci.org/tpabahatp/DZAYA.svg?branch=master)](https://travis-ci.org/tpabahatp/DZAYA)
